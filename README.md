@@ -1,5 +1,5 @@
 # Flight-mechanics-novel-autonomous-synchropter
-A 6 week full time group design project of a novel, autonomous synchropter design, meant to retrieve a payload reentering from space. Worked in the flight mechanics and controls team. Individual report includes technical details. Project was completed in fulfilment of the Masters of Engineering (MEng Degree) in Aeronautical Engineering, Imperial College London. 
+A 6 week full time group design project of a novel, autonomous synchropter design, meant to retrieve a payload undergoing reentry. Worked in the flight mechanics and controls team. An individual report is included. Project was completed in fulfilment of the Masters of Engineering (MEng Degree) in Aeronautical Engineering, Imperial College London. 
 
 An individual report detailing the flight mechanics considerations required in producing this novel synchropter design, along with the alignment to mission objectives for which the rotorcraft is designed for. A state space model with 13 variables was produced. Rotor flap and higher order harmonic frequencies were ignored. A slung load was considered an included within the state space model. 
 
